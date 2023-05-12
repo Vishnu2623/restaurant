@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background img{
+    width: 100%;
+    height:auto;
+    margin-top: -8px;
+}
+.background h1{
+    font-size:3vw;
+    font-weight:bold;
+    margin-left: 1vw;
+    margin-top: -50vw;
+    color: white;
+    text-align: left;
+}
+.background h3{
+    font-size: 1.5vw;
+    color: white;
+    margin-left: 1vw;
+    margin-top: 2vw;
+    text-align: justify;
+}
+.background a{
+    margin-left: 1vw;
+}
+
+.v1{
+    width: 50%;
+    margin-top:32vw;
+    height: 5vw;
+    background-color: green;
+}
+.menu h1{
+    margin-left: 35rem;
+    margin-top: -50rem;
+    color: yellow;
+}
+.card{
+    opacity: 0.3;
+    margin-left: 50px;
+    margin-top: 150px;
+    height: 1500px;
+    border: 2px solid white;
+
+}
+.card h5,p{
+    font-weight:bold;
+    filter: brightness(2000%);
+    color: white;
+    font-size: large;
+}
+
+
